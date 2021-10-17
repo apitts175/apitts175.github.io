@@ -1,0 +1,49 @@
+body {
+  padding-top: 5rem;
+  /* background-color: maroon; */
+  background-image: url('background.jfif');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h1 {
+    color: #FCE300
+}
+
+h2 {
+    color: #FCE300
+}
+
+h3 {
+    color: #FCE300
+}
+
+p {
+    color: white;
+}
+
+li {
+    color: white;
+}
+
+a {
+    color: #EC407A;
+}
+
+a:link {
+    color: #EC407A;
+}
+
+a:hover {
+    color: #EC407A; 
+}
+
+hr {
+    background-color: white;
+}
+
+ul {
+    width: 1000px;
+    margin: auto;
+}
